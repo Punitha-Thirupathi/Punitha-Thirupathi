@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punitha Thirupathi</h1>
-![Banner](https://www.canva.com/design/DAF3rFtdPf4/aM9AT9EERL6pGc0OH5Ec1Q/edit)
+<img align="center" src="/img/LinkedIn Banner (2).png" alt="punitha thirupathi" height="300" width="400" />
 
 <h3 align="center">A passionate frontend developer</h3>
 
