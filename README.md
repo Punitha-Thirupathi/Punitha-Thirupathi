@@ -1,5 +1,6 @@
+
+<img align="center" src="/img/LinkedIn Banner (2).png" alt="punitha thirupathi" height="300" width="100%" />
 <h1 align="center">Hi 👋, I'm Punitha Thirupathi</h1>
-<img align="center" src="/img/LinkedIn Banner (2).png" alt="punitha thirupathi" height="300" width="400" />
 
 <h3 align="center">A passionate frontend developer</h3>
 
