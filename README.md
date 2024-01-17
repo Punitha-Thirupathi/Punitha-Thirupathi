@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Punitha Thirupathi</h1>
+![Banner](https://www.canva.com/design/DAF3rFtdPf4/aM9AT9EERL6pGc0OH5Ec1Q/edit)
+
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, React**
