@@ -1,8 +1,10 @@
 
 <img align="center" src="/img/LinkedIn Banner (2).png" alt="punitha thirupathi" height="300" width="100%" />
-<h1 align="center">Hi 👋, I'm Punitha Thirupathi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="10" height="10" />, I'm Punitha Thirupathi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="10" height="10" /></h1>
 
 <h3 align="center">A passionate frontend developer</h3>
+
+<img align="right" src="" alt="punitha thirupathi" height="300" width="100%" />
 
 - 🌱 I’m currently learning **Javascript, React**
 
