@@ -1,4 +1,3 @@
-
 <img align="center" src="/img/LinkedIn Banner (2).png" alt="punitha thirupathi" height="300" width="100%" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="27" height="27" />, I'm Punitha Thirupathi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="27" height="27" /></h1>
 
@@ -14,7 +13,9 @@
 
 - 📫 How to reach me **thijapuni183@gmail.com**
 
-- 📄 Know about my experiences <a href="./Resume/PunithaTj (2).pdf" download> Click Me </a>
+- 📄 Know about my experiences <a href="PunithaTj .pdf" download>
+  Click Here
+  </a>
 
 - ⚡ Fun fact **I Think I'm crazy About Coding:)**
 
