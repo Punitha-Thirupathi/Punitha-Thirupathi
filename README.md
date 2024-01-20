@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thijapuni183@gmail.com**
 
-- 📄 Know about my experiences <a href="PunithaTj .pdf" download>
+- 📄 Know about my experiences <a href="./PunithaTj .pdf" download>
   Click Here
   </a>
 
