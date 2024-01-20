@@ -12,10 +12,10 @@
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **thijapuni183@gmail.com**
-
 - 📄 Know about my experiences <a href="./PunithaTj .pdf" download="PunithaTj.pdf">
   Click Here
-  </a>
+</a>
+
 
 - ⚡ Fun fact **I Think I'm crazy About Coding:)**
 
