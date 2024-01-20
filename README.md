@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thijapuni183@gmail.com**
 
-- 📄 Know about my experiences <a href="./Resume/PunithaTj (2).pdf"> Click Me </a>
+- 📄 Know about my experiences <a href="./Resume/PunithaTj (2).pdf" download> Click Me </a>
 
 - ⚡ Fun fact **I Think I'm crazy About Coding:)**
 
