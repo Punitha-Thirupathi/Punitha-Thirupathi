@@ -13,7 +13,7 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **thijapuni183@gmail.com**
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="25" height="22" />Know about my experiences [Click Here to Download Resume]<a href ="https://drive.google.com/file/d/1A3yQbGVqS6ef8wt61hMmJj-P_0X1FfDY/view?usp=drive_link" download>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="25" height="22" />Know about my experiences [Click Here to Download Resume](https://drive.google.com/file/d/1A3yQbGVqS6ef8wt61hMmJj-P_0X1FfDY/view?usp=drive_link download)
 
 
 
